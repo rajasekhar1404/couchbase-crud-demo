@@ -8,3 +8,6 @@ class CouchbaseCrudDemoApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
